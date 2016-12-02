@@ -1,5 +1,12 @@
 [
   {
+    "poolName": "SlushPool",
+    "url": "https://slushpool.com/",
+    "searchStrings": [
+      "/slush/"
+    ]
+  },
+  {
     "poolName": "Bitfly",
     "url": "https://zcash.flypool.org/",
     "searchStrings": [
